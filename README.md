@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javamane86
-- 👀 I’m interested in you ofc
-- 🌱 I’m currently learning how to love someone else
+- 👀 I’m interested in becaming Front-end Dev
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on project etc
-- 📫 How to reach me ig @villlainmane_
+- 📫 Hii
